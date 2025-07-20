@@ -1,9 +1,11 @@
 # 🚀 Git & GitHub CLI Workflow Guide for Interview Preparation
 
 This guide helps you get started with GitHub using Git and GitHub CLI — perfect for Data Analysts, Developers, or anyone preparing for technical interviews.
-🎥 YouTube References for Better Understanding
-🔗 GitHub CLI & GitHub Project Walkthrough – Live Tutorial 1
-🔗 GitHub Projects, Git Bash, and ReadMe Setup – Live Tutorial 2
+## 🎥 YouTube References for Better Understanding
+
+- [🔗 GitHub CLI & GitHub Project Walkthrough – Live Tutorial 1](https://www.youtube.com/live/DzFmUPGy55c?si=Pqg45Nezz-W_26Y-)
+
+- [🔗 GitHub Projects, Git Bash, and ReadMe Setup – Live Tutorial 2](https://www.youtube.com/live/vSrvG1HKqaE?si=zuY1Z8L7qGxHtj4W)
 ---
 
 ## 📥 Install Git & GitHub CLI
