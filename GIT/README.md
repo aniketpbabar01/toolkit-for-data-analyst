@@ -43,7 +43,7 @@ Remove a file from Git tracking but keep it locally:
 
 8. Commit the changes:  
 `git commit -m "updating files"`
-OR git commit -m "removed files"
+OR 'git commit -m "removed files"'
 
 9. Push changes to the main branch:  
 `git push origin main`
