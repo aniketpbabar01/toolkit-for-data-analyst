@@ -47,14 +47,16 @@ OR `git commit -m "removed files"`
 
 9. Push changes to the main branch:  
 `git push origin main`
+To switch to a different branch
+`git switch branch-name`
 
-10. Push changes to a new branch (e.g. update-readme):  
+11. Push changes to a new branch (e.g. update-readme):  
 `git push -u origin update-readme`
 
-11. Check pull request status:  
+12. Check pull request status:  
 `gh pr status`
 
-12. Create a pull request:  
+13. Create a pull request:  
 `gh pr create --fill`
 
 ---
