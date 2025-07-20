@@ -14,7 +14,7 @@ This guide helps you get started with GitHub using Git and GitHub CLI — perfec
 - Visit: [https://git-scm.com/downloads](https://git-scm.com/downloads)
 - Click **Download for Windows** and **Run** the installer.
 
-## COMMONLY USED GIT COMMANDS IN IT COMPANY
+## COMMONLY USED GIT COMMANDS IN IT COMPANY (Start with Git Bash)
 
 1. (Optional) Install GitHub CLI via terminal:  
 `winget install --id GitHub.cli`
