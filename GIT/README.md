@@ -47,7 +47,7 @@ OR `git commit -m "removed files"`
 
 9. Push changes to the main branch:  
 `git push origin main`
-To switch to a different branch
+ OR To switch to a different branch
 `git switch branch-name`
 
 11. Push changes to a new branch (e.g. update-readme):  
