@@ -45,10 +45,9 @@ Remove a file from Git tracking but keep it locally:
 `git commit -m "updating files"`
 OR `git commit -m "removed files"`
 
-9. Push changes to the main branch:  
+10. Push changes to the main branch:  
 `git push origin main`
-OR
-To switch to a different branch:
+OR To switch to a different branch:
 `git switch branch-name`
 
 11. Push changes to a new branch (e.g. update-readme):  
